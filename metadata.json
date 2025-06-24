@@ -1,0 +1,5 @@
+
+{
+  "name": "Gemini AI Text Streamer",
+  "description": "A React application that demonstrates streaming text generation using the Gemini API. Users can input a prompt and see the AI-generated text stream in real-time."
+}
